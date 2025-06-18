@@ -15,6 +15,8 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=vloax&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=vloax)](https://git.io/streak-stat)
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
